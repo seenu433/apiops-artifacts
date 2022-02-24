@@ -3,7 +3,7 @@
   "properties": {
     "apiRevision": "1",
     "authenticationSettings": {},
-    "displayName": "Echo API Hopeful",
+    "displayName": "Echo API Demo",
     "isCurrent": true,
     "path": "echo",
     "protocols": [
