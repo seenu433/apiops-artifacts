@@ -3,7 +3,7 @@
   "properties": {
     "apiRevision": "1",
     "authenticationSettings": {},
-    "displayName": "Echo API Test",
+    "displayName": "Echo API After Test",
     "isCurrent": true,
     "path": "echo",
     "protocols": [
